@@ -24,7 +24,7 @@ A modern real estate management system built with PHP 8.1 and MySQL.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/davidmusembi/realestate.git
+git clone https://github.com/davidmusembi/Real-Estate-System.git
 ```
 
 
